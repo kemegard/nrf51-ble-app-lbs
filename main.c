@@ -9,6 +9,8 @@
  * nAN-36 Creating Bluetooth® Low Energy Applications Using nRF51822.
  */
 
+/* Under development */
+
 #include <stdint.h>
 #include <string.h>
 #include "nordic_common.h"
